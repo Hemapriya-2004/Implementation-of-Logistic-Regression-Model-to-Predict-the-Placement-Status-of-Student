@@ -83,7 +83,13 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 
 ## Output:
 ![output](https://github.com/Nagajyothichinta/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/1854dfa149be6a2565719ac7b9093f92aca022ff/z5.png)
-
+![output](https://github.com/Nagajyothichinta/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/1854dfa149be6a2565719ac7b9093f92aca022ff/z6.png)
+![output](https://github.com/Nagajyothichinta/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/1854dfa149be6a2565719ac7b9093f92aca022ff/z7.png)
+![output](https://github.com/Nagajyothichinta/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/1854dfa149be6a2565719ac7b9093f92aca022ff/z8.png)
+![output](https://github.com/Nagajyothichinta/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/1854dfa149be6a2565719ac7b9093f92aca022ff/z9.png)
+![output](https://github.com/Nagajyothichinta/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/1854dfa149be6a2565719ac7b9093f92aca022ff/z10.png)
+![output](https://github.com/Nagajyothichinta/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/1854dfa149be6a2565719ac7b9093f92aca022ff/z11.png)
+![output](https://github.com/Nagajyothichinta/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/1854dfa149be6a2565719ac7b9093f92aca022ff/z12.png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
